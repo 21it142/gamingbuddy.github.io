@@ -1,0 +1,27 @@
+[
+  {
+    itemId: 11,
+    name: 'Acacia Sign',
+    namespacedId: 'acacia_sign',
+    description: 'Signs are non-solid blocks that can display text.',
+    image: 'https://minecraft-api.s3.amazonaws.com/items/acacia_sign.png',
+    stackSize: 16
+  },
+  {
+    itemId: 24,
+    name: 'Armor Stand',
+    namespacedId: 'armor_stand',
+    description: 'Armor stands are entities that are able to hold and display wearable items.',
+    image: 'https://minecraft-api.s3.amazonaws.com/items/armor_stand.png',
+    stackSize: 16
+  },
+  {
+    itemId: 77,
+    name: 'Birch Sign',
+    namespacedId: 'birch_sign',
+    description: 'Signs are non-solid blocks that can display text.',
+    image: 'https://minecraft-api.s3.amazonaws.com/items/birch_sign.png',
+    stackSize: 16
+  },
+  ...
+]
